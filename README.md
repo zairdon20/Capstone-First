@@ -6,7 +6,7 @@
 
 ![screenshot](./imgs/Screenshot-desktop.png)
 
-![screenshot](./imgs/img/Screenshot-mobile.png)
+![screenshot](./imgs/Screenshot-mobile.png)
 
 Additional description about the project and its features.
 
